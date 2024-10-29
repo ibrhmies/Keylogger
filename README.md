@@ -52,4 +52,5 @@ This command will display the message "Keylogger starting..." in the terminal an
 This software is developed for educational purposes only. Please note that the unauthorized use of keyloggers can be illegal. Use it only on your own devices or where you have permission.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
